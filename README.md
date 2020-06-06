@@ -1,4 +1,4 @@
-# Thoughts - This is not a Blog
+# Thoughts & Opinions - This is not a Blog
 
 ## 2020-06-06: Regarding the new "device notification" mails
 
