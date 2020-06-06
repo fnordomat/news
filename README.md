@@ -4,6 +4,8 @@
 
 Regarding [this](https://github.community/t/new-security-feature-device-verification/10216).
 
+"Please verify your device" mails: harmless nonsense or harbingers of more confusion and suckage? You be the judge.
+
 I do not want every online sevice to become as unusable as home banking in the EU after the introduction of the awful PSD-2 directive (which, as you may know, introduces great "security features" such as unpredictable TAN confirmations for queries that aren't even transactions, and mandates that online banking websites log the user out after 5 minutes of presumed "inaction" for "security reasons" - just to prevent customers from dealing with the bank's website according to their own needs, incidentally breaking accessibility for disabled users!)
 
 The idea that services are at liberty to model, profile and scan the user or their "devices", whatever that is supposed to mean, is inacceptable and must be nipped in the bud.
