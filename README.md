@@ -2,7 +2,11 @@
 
 ## 2020-06-06: Regarding the new "device notification" mails
 
-I do not want every online sevice to become as unusable as home banking with the EU's terminally idiotic PSD-2 directive. The idea that services are at liberty to profile and scan the user or their "devices", whatever that is supposed to mean, must be nipped in the bud.
+Regarding [this](https://github.community/t/new-security-feature-device-verification/10216).
+
+I do not want every online sevice to become as unusable as home banking in the EU after the introduction of the awful PSD-2 directive (which, as you may know, introduces great "security features" such as unpredictable TAN confirmations for queries that aren't even transactions, and mandates that online banking websites log the user out after 5 minutes of presumed "inaction" for "security reasons" - just to prevent customers from dealing with the bank's website according to their own needs, incidentally breaking accessibility for disabled users!)
+
+The idea that services are at liberty to model, profile and scan the user or their "devices", whatever that is supposed to mean, is inacceptable and must be nipped in the bud.
 
 The recent invention of "Please verify your device" confirmation mails does not bode well for the direction that user experience with github and other sites is taking. Spurred by this recent flurry of new and unnecessary "security theatre"-like ideas cropping up everywhere, I have composed the following complaint:
 
