@@ -6,7 +6,9 @@ I've aired my opinion on DRM and DMCA elsewhere. In my opinion, anti-circumventi
 
 Cowardly decisions regarding freedom of speech (and I'm not talking about criminal activity or hate speech!) make a platform obsolete. Your acts of censorship, if one wants to call it that, on behalf of the US copywrong mafia aren't about anything genuinely objectionable - I'd understand that, I really would. By banning development of youtube-dl from your platform, you're joining the fight against the sharing of knowledge. That's why I can only call upon everyone to move any FLOSS repositories away from github because they might fall prey to similar decisions.
 
-Whoever isn't fighting for the users has made their standpoint clear. And so is mine. No thoughtcrime, no copyright, and FLOSS get the hell away from big platforms.
+Whoever isn't fighting for the users has made their standpoint clear (unsurprising, what else has M$ ever been doing?). And so is mine. No thoughtcrime, no copyright, and FLOSS get the hell away from big platforms.
+
+So come on M$, censor me, ban me if you feel the need. If you're that insecure.
 
 ## 2020-06-06: Regarding the new "device notification" mails
 
