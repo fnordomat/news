@@ -1,5 +1,11 @@
 # Thoughts & Opinions - This is not a Blog
 
+## 2020-11-01: Regarding youtube-dl
+
+I've aired my opinion on DRM and DMCA elsewhere. In my opinion, anti-circumvention laws are essentially thoughtcrime laws, especially if they seek to prohibit the free exchange of information (about unjust and nonsensical systems built by humans in furtherance of unfair business models that would otherwise not be viable, and which are being protected by such laws as if they were sacred, handed down by gods).
+
+Cowardly decisions regarding freedom of speech (and I'm not talking about criminal activity or hate speech!) make a platform obsolete. Your acts about censorship aren't about anything genuinely objectionable - I'd understand that. By banning development of youtube-dl from your platform, you're joining the fight against the sharing of knowledge. That's why I can only call upon everyone to move any FLOSS repositories away from github because they might fall prey to similar decisions.
+
 ## 2020-06-06: Regarding the new "device notification" mails
 
 Regarding [this](https://github.community/t/new-security-feature-device-verification/10216).
