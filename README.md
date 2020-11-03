@@ -4,7 +4,7 @@
 
 I've aired my opinion on DRM and DMCA elsewhere. In my opinion, anti-circumvention laws are essentially thoughtcrime laws, especially if they seek to prohibit the free exchange of information (about unjust and nonsensical systems built by humans in furtherance of unfair business models that would otherwise not be viable, and which are being protected by such laws as if they were sacred, handed down by gods).
 
-Cowardly decisions regarding freedom of speech (and I'm not talking about criminal activity or hate speech!) make a platform obsolete. Your acts of "censorship" on behalf of the US copywrong regime aren't about anything genuinely objectionable - I'd understand that, I really would. By banning development of youtube-dl from your platform, you're joining the fight against the sharing of knowledge. That's why I can only call upon everyone to move any FLOSS repositories away from github because they might fall prey to similar decisions.
+Cowardly decisions regarding freedom of speech (and I'm not talking about criminal activity or hate speech!) make a platform obsolete. Your acts of censorship, if one wants to call it that, on behalf of the US copywrong mafia aren't about anything genuinely objectionable - I'd understand that, I really would. By banning development of youtube-dl from your platform, you're joining the fight against the sharing of knowledge. That's why I can only call upon everyone to move any FLOSS repositories away from github because they might fall prey to similar decisions.
 
 ## 2020-06-06: Regarding the new "device notification" mails
 
