@@ -8,7 +8,7 @@ Cowardly decisions regarding freedom of speech (and I'm not talking about crimin
 
 Whoever isn't fighting for the users has made their standpoint clear (unsurprising, what else has M$ ever been doing?). And so is mine. No thoughtcrime, no copyright, and FLOSS get the hell away from big platforms.
 
-So come on M$, censor me, ban me if you feel the need. If you're that insecure.
+Meanwhile, I do appreciate that some action has now been taken on behalf of legitimate users and youtube-dl is back.
 
 ## 2020-06-06: Regarding the new "device notification" mails
 
