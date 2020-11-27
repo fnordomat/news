@@ -10,6 +10,8 @@ Whoever isn't fighting for the users has made their standpoint clear (unsurprisi
 
 Meanwhile, I do appreciate that some action has now been taken on behalf of legitimate users and youtube-dl is back.
 
+My principal objection now goes towards DMCA itself, which your lawmakers would be well-advised to abolish because of its many harmful implications.
+
 ## 2020-06-06: Regarding the new "device notification" mails
 
 Regarding [this](https://github.community/t/new-security-feature-device-verification/10216).
