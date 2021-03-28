@@ -12,6 +12,10 @@ Meanwhile, I do appreciate that some action has now been taken on behalf of legi
 
 My principal objection now goes towards DMCA itself, which your lawmakers would be well-advised to abolish because of its many harmful implications.
 
+2021-03-28:
+
+And now there's [this](https://arstechnica.com/gadgets/2021/03/critics-fume-after-github-removes-exploit-code-for-exchange-vulnerabilities/). More reasons to think twice before thinking of hosting one's code on the largest platform. What if this policy becomes more prohibitive in the future? Just like in the youtube-dl case it doesn't even have to be the platform's fault. Legislative overreach, criminalizing technical information deemed too sensitive for the public, such as "hacker tools", is rife.
+
 ## 2020-06-06: Regarding the new "device notification" mails
 
 Regarding [this](https://github.community/t/new-security-feature-device-verification/10216).
